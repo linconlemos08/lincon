@@ -1,1 +1,20 @@
+.teste{
+    border: 5px solid rgb(255, 255, 255);
+    display: flex;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    width:50%;
+}
+.nome{
+    height:100px;
+    width:100px;
+}
+.teste:hover{
+    border: 5px solid rgb(0, 0, 0);
+}
+.tam{
+    height: 100%;
+    width: 100%;
+}
 
